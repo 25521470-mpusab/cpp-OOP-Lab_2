@@ -1,4 +1,4 @@
-#C++ Exercises
+# C++ Exercises
 
 This repository contains my C++ programming exercises in Lab 2.
 
