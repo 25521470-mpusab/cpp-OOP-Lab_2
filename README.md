@@ -10,6 +10,4 @@ bai 2: PhanSo
 
 bai 3: SoPhuc
 
-bai 4: 
-
-bai 5: GioPhutGiay
+bai 4: GioPhutGiay
