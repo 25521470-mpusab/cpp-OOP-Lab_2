@@ -8,7 +8,7 @@ bai 1: NgayThangNam
 
 bai 2: PhanSo
 
-bai 3:
+bai 3: SoPhuc
 
 bai 4: 
 
