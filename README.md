@@ -4,7 +4,7 @@ This repository contains my C++ programming exercises in Lab 2.
 
 Topics: Class
 
-bai 1: NgayThangNam, Nhập vào Ngày, tháng, năm, khai báo các hàm nhập, xuất, xuất ra ngày tiếp theo
+bai 1: NgayThangNam, Nhập vào Ngày, tháng, năm, khai báo các hàm nhập, xuất, xuất ra ngày tiếp theo và in ra màn hình
 
 bai 2: PhanSo
 
