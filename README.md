@@ -10,4 +10,4 @@ bai 2: PhanSo, Nhập vào Tử, Mẫu, khai báo các hàm nhập, xuất, rút
 
 bai 3: SoPhuc, Nhập vào phần Thực, phần Ảo, khai báo các hàm nhập, xuất, tính tổng, hiệu, tích, thương.
 
-bai 4: GioPhutGiay
+bai 4: GioPhutGiay, Nhập vào Giờ, Phút Giây, khai báo các hàm nhập, xuất, tính thời gian sau khi cộng 1 giây.
