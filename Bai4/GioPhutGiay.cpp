@@ -20,7 +20,7 @@ bool laSoNguyenDuong(string s) {
 }
 
 /* Đầu vào là 3 số nguyên nhập vào, 
-đầu ra là lưu 3 giá trị vào giờ phút giây hiện tại thiếu điều kiện */
+đầu ra là lưu 3 giá trị vào giờ phút giây thiếu điều kiện */
 void GioPhutGiay::Nhap() {
     string input;
 
